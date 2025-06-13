@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Baleke Group</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f4f4f4;
+      line-height: 1.6;
+    }
+    header {
+      background-color: #003366;
+      color: white;
+      text-align: center;
+      padding: 30px 20px;
+    }
+    nav {
+      background: #0055a5;
+      text-align: center;
+      padding: 12px 0;
+    }
+    nav a {
+      color: white;
+      margin: 0 20px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .container {
+      max-width: 1000px;
+      margin: auto;
+      background: white;
+      padding: 30px 20px;
+    }
+    h2 {
+      color: #003366;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    footer {
+      background-color: #003366;
+      color: white;
+      text-align: center;
+      padding: 15px 0;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Baleke Group</h1>
+    <p>Shaping Africa’s Future Through Innovation and Diversity</p>
+  </header>
+
+  <nav>
+    <a href="#overview">Overview</a>
+    <a href="#sectors">Sectors</a>
+    <a href="#mission">Mission & Vision</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <div class="container">
+    <section id="overview">
+      <h2>Overview</h2>
+      <p>Founded by entrepreneur Asifiwe Baleke Prince, Baleke Group is a multi-sector conglomerate driving sustainable growth across Africa. We operate in key sectors and aim to empower local communities in East and Central Africa.</p>
+    </section>
+
+    <section id="sectors">
+      <h2>Our Sectors</h2>
+      <ul>
+        <li><strong>Construction & Infrastructure:</strong> Residential, commercial, and civil development.</li>
+        <li><strong>Transport & Logistics:</strong> Efficient freight and passenger services.</li>
+        <li><strong>Cybersecurity:</strong> Digital protection solutions for Africa’s future.</li>
+        <li><strong>Internet Services:</strong> Affordable internet for rural and urban communities.</li>
+        <li><strong>Sports:</strong> Academies and youth talent development.</li>
+        <li><strong>Music & Entertainment:</strong> Talent management and events.</li>
+        <li><strong>Education:</strong> Schools, scholarships, and vocational training.</li>
+        <li><strong>Agriculture:</strong> Agro-processing, food security, and farming innovation.</li>
+        <li><strong>Mining:</strong> Responsible resource exploration and development.</li>
+      </ul>
+    </section>
+
+    <section id="mission">
+      <h2>Mission & Vision</h2>
+      <p><strong>Mission:</strong> To deliver world-class services that uplift lives, transform industries, and foster prosperity across Africa.</p>
+      <p><strong>Vision:</strong> To be a trusted, transformative force behind Africa's rise—built on integrity, innovation, and inclusive growth.</p>
+    </section>
+
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p><strong>Email:</strong> info@balekegroup.com</p>
+      <p><strong>Phone:</strong> +254 794 233 439</p>
+      <p><strong>Locations:</strong> Nairobi, Kenya & Kinshasa, DRC</p>
+    </section>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Baleke Group. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
